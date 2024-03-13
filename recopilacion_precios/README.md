@@ -1,4 +1,4 @@
-# Pregunta sobre la recopilaci¢n an lisis de precios 
+# Pregunta sobre la recopilación y análisis de precios 
 
 #### Como parte de nuestro análisis de mercado, queremos recopilar y analizar los precios de nuestros productos en los sitios web de Amazon.es y Manoamano.es. ¿Cómo abordarías este problema y qué bibliotecas o herramientas utilizarías?
 
