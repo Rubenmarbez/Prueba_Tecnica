@@ -1,4 +1,4 @@
-# Pregunta sobre resoluci¢n de problemas generales 
+# Pregunta sobre resolución de problemas generales 
 
 #### Imagina que enfrentamos un desafío técnico en el que necesitamos integrar datos de ventas en tiempo real desde nuestro sitio web con nuestro sistema de gestión de inventario. ¿Cuál sería tu enfoque para abordar esta integración técnica y qué tecnologías o herramientas considerarías para lograrlo?
 
